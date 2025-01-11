@@ -53,5 +53,8 @@ public class App
         entityTransaction.commit();
         entityManagerFactory.close();
         System.out.println("Done...");
+        
+        
+        
     }
 }
